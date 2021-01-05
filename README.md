@@ -30,7 +30,7 @@ Tabla de Contenido
 0 - Introducción
 ============
 
-![alt text](img/turbofan.gif)
+![alt text](img/turbofan1.jpeg)
 
 Aquí definimos los pronósticos exclusivamente como la estimación de la vida útil restante del componente. Las estimaciones de vida útil restante (RUL) están en unidades de tiempo (ciclos).
 
